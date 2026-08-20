@@ -1,1 +1,3 @@
-My first Gir project
+My first Git project
+
+Rinat is Admin!
